@@ -2,7 +2,7 @@
 title: "R Spatial y Tidymodels"
 subtitle: ""
 excerpt: "Este curso introduce R para el uso de datos espaciales y todymodels"
-date: 2024-09-19
+date: 2024-10-19
 author: "Yanina Bellini Saibene, Paola Corrales & Elio Campitelli"
 featured: true
 draft: false
