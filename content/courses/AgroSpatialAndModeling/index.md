@@ -1,5 +1,5 @@
 ---
-title: "R aplicado al sensoramiento remoto y modelado para Agro"
+title: "R Spatial y Tidymodels"
 subtitle: ""
 excerpt: "Este curso introduce R para el uso de datos espaciales y todymodels"
 date: 2024-09-19
