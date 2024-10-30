@@ -1,7 +1,7 @@
 ---
-title: "Agro Reportes con R"
+title: "R aplicado al sensoramiento remoto y modelado para Agro"
 subtitle: ""
-excerpt: "Este curso introduce R para generar reportes parametrizados con ejemplos y casos de uso relacionados a agricultura"
+excerpt: "Este curso introduce R para el uso de datos espaciales y todymodels"
 date: 2024-09-19
 author: "Yanina Bellini Saibene, Paola Corrales & Elio Campitelli"
 featured: true
