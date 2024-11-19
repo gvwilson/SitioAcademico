@@ -1,6 +1,6 @@
 ---
 title: "The stories behind your community numbers"
-excerpt: "In this keynote I invite you to reflect on how to measure the impact of our work in our communities. I share two frameworks we use at rOpenSci and severals tool to measure differents aspect of our work and our impact, not only with numbers, but with stories"
+excerpt: "In this keynote I invite you to reflect on how to measure the impact of our work in our communities. I share two frameworks we use at rOpenSci and severals tool to measure different aspects of our work and our impact, not only with numbers, but with stories"
 date: 2024-11-12
 date_end: "2024-11-14"
 author: "Yanina Bellini Saibene"
