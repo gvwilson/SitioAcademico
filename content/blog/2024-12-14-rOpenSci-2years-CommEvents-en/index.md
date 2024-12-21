@@ -168,6 +168,7 @@ All the work is **100% volunteer**. It is truly a conference by and for the Lati
 The online version has around 1000 registered, and the in-person version has around 300 participants. 
 During 2024 we also organized our first Traslathon (Hackathon + Translation) to translate rOpenSci Dev Guide to Portuguese.
 
+{{< figure src="latinr2022-23-24.png" alt="Images of people participatin in zoom or in person during LatinR 2022, 2023 and 2024. Flyer of traslathon and Danielle Navarro keynote">}}
 
 * [CSV,Conf,v7](https://csvconf.com/2023/) and [CSC,Conf,V8](https://csvconf.com/2024/) (in person): For the 2024 edition, 
 I reviewed proposals and helped organize The Carpentries Workshop. I also included R-Ladies Puebla on the organization committee so that they could 
