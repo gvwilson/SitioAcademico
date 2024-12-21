@@ -153,6 +153,9 @@ I have been part of the *scientific committee* for the [Congress of AgroInformat
 [Nerderala 2023 and 2024 (Argentina y Mexico)](https://nerdear.la/). 
 I was also on the *organizing team* for seven conferences.
 
+{{< figure src="latinR2022-23-24.png" alt="Images of people participatin in zoom or in person during LatinR 2022, 2023 and 2024. Flyer of traslathon and Danielle Navarro keynote">}}
+
+
 * [useR! 2022 (online)](https://user2022.r-project.org):  I was in charge of organizing all the tutorials, 
 which had their call, review, selection, and agenda. I also helped with the Spanish communication of the event, 
 the composition of the scientific committee, selecting keynotes, contacting sponsors, 
@@ -168,9 +171,7 @@ All the work is **100% volunteer**. It is truly a conference by and for the Lati
 The online version has around 1000 registered, and the in-person version has around 300 participants. 
 During 2024 we also organized our first Traslathon (Hackathon + Translation) to translate rOpenSci Dev Guide to Portuguese.
 
-{{< figure src="latinr2022-23-24.png" alt="Images of people participatin in zoom or in person during LatinR 2022, 2023 and 2024. Flyer of traslathon and Danielle Navarro keynote">}}
-
-* [CSV,Conf,v7](https://csvconf.com/2023/) and [CSC,Conf,V8](https://csvconf.com/2024/) (in person): For the 2024 edition, 
+* [CSV,Conf,v7](https://csvconf.com/2023/) and [CSC,Conf,V8](https://csvconf.com/2024/), both in person: For the 2024 edition, 
 I reviewed proposals and helped organize The Carpentries Workshop. I also included R-Ladies Puebla on the organization committee so that they could 
 organize an R-Ladies Meetup during the conference. For the 2023 edition, I was more involved because 
 it was in Buenos Aires. I also reviewed proposals, supported visa applications, and helped organize 
@@ -185,6 +186,8 @@ accessibility, multilingual content, and potential speakers.
 The [rOpenSci Champions Program](https://ropensci.org/champions/) has a [first phase of training](https://ropensci.org/blog/2023/08/04/champions-program-training/) 
 related to [best practices in R package development, community management, and mentoring](https://ropensci.org/training/). 
 
+{{< figure src="training-champions-program.png" alt="Concep Map with four tracks of training. Coding Track with 4 workshops, code reviwe track with 1 workshop, mentoring track with one workhsop and community management track with 2 workshops.">}}
+
 The _main challenge_ is organizing more than 20 people in time zones **more than 16 hours apart**. 
 The program also has cohort and kick-off meetings. During the second year, 
 we add informal and optional weekly gatherings that last two hours. 
@@ -195,7 +198,7 @@ Some of the tools I use to organize these events are:
 
 * [Google Calendar](https://calendar.google.com/) for a complete agenda of the program, scheduling and sending reminders.
 * [Calendly](https://calendly.com/): you can link your calendar with Calendly and provide a link to other people 
-to choose a day and time in your agenda. It is free for only one type of event. It also provides a **pool** option which is screen reader accesible. 
+to choose a day and time in your agenda. It is free for only one type of event. It also provides a *pool* option which is screen reader accesible. 
 Have a 40 spot limit.
 * [Time and date](http://timeanddate.com/): for checking time zones and calculate dates and times.
 * [World Time Buddy](https://www.worldtimebuddy.com/): for checking time zones and calculate dates and times.
@@ -216,7 +219,7 @@ to match our community members' needs and expectations.
 *Promotion* is crucial to reaching our audience with time, requiring targeted outreach through 
 the human language of communication and platforms like social media, forums, and newsletters. 
 
-*Engagement* during and after the event, through shared note-taking, 
+*Engagement* during and after the event, through using accesible tools and materials, shared note-taking, 
 interactive Q&A sessions, a code of conduct, and follow-up content, ensures that participants feel safe, 
 remain connected, and that the event has a lasting impact.
 
