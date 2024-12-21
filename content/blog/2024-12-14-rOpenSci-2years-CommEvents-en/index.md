@@ -127,8 +127,8 @@ I'm also an attendee of the coworking to make progress in my rOpenSci work. :-)
 
 ## Webinars 
 
-These are also online, free, and open to all events. A rOpenSci member organizes them with my support. 
-We already have 3 of these events. 
+These are also online, free, and open to all events. It is a new type of event. 
+A rOpenSci member organizes them with my support. We already have 3 of these events. 
 
 One of the nicest characteristics is that the primary language of the event is the host's native language. 
 We already have events in Spanish, Portuguese, and Turkish. We also organize these events with other communities 

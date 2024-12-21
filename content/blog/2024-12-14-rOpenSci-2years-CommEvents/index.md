@@ -135,11 +135,12 @@ Asisto a las sesiones para avanzar en mi trabajo de rOpenSci. :-)
 
 ## Seminarios web
 
-También son eventos en línea, gratuitos y abiertos a todos. Un miembro de rOpenSci los organiza con mi apoyo.
-Ya tenemos 3 de estos eventos.
+También son eventos en línea, gratuitos y abiertos. Es un nuevo tipo de evento. 
+Una persona que es parte de rOpenSci los organiza con mi apoyo.
+Ya realizamos tres. 
 
 Una de las características más agradables es que la lengua principal del evento es la lengua materna del anfitrión.
-Ya tenemos actos en español, portugués y turco. También organizamos estos actos con otras comunidades
+Ya tuvimos semiarios en español, portugués y turco. También organizamos estos eventos con otras comunidades
 o instituciones, como [Código Abierto Angola](https://angolaosc.org) y la [Universidad Boğaziçi](https://bogazici.edu.tr/en-US/Index) (Turquía).
 
 {{< figure src="webinarios.png" alt="Collage con reuniones de zoom y folletos de los seminarios web de rOpenSci" >}}
@@ -147,8 +148,8 @@ o instituciones, como [Código Abierto Angola](https://angolaosc.org) y la [Univ
 Los temas son variados. Por ejemplo, Carolina Pradier organizó un seminario web para [presentar novedades sobre
 el paquete eph R](https://vimeo.com/manage/899372049/general) tras su trabajo en el [Programa de Campeones rOpenSci](https://ropensci.org/champions/),
 y tres usuarios del paquete compartieron cómo lo utilizan.
-A continuación, Pedro Faria, de Brasil, y Antonio Pedro, de Angola, organizaron un acto para [debatir cómo contribuir a la traducción al portugués de la Guía de desarrollo de rOpenSci](https://vimeo.com/manage/899603912/general).
-Cagri, con Liz Hare, organizó un evento sobre [uso y aprendizaje de R con lectores de pantalla](https://vimeo.com/manage/1008631708/general).
+Luego, Pedro Faria, de Brasil, y Antonio Pedro, de Angola, organizaron un evento para [debatir cómo contribuir a la traducción al portugués de la Guía de Desarrollo de rOpenSci](https://vimeo.com/manage/899603912/general).
+Finalmente, Cagri, con Liz Hare, organizó un evento sobre [uso y aprendizaje de R con lectores de pantalla](https://vimeo.com/manage/1008631708/general).
 
 Las fases de organización son similares a las de la Convocatoria Comunitaria,
 pero los miembros de rOpenSci que organizan el evento se encargan de algunas tareas.
