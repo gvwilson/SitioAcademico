@@ -1,8 +1,8 @@
 ---
-title: Proyecto 4 - Actos comunitarios
+title: "Proyecto 4 - Eventos de la comunidad"
 author: Yanina Bellini Saibene
-summary: ''
-date: '2024-12-14'
+summary: '22-12-2024'
+date: '2024-12-22'
 categories:
 - Community
 - 100DaysToOffload
@@ -13,48 +13,55 @@ tags:
 - rOpenSci
 ---
 
-*Gestión y desarrollo de programas* son otro conjunto de *actividades principales* de un Community Manager.
+La *gestión y desarrollo de programas* son otro conjunto de *actividades principales* 
+de un Community Manager.
 La programación, en este contexto, es la *combinación de actividades en una comunidad que ayuda a los miembros a realizar juntos el propósito de la comunidad*.
 
-En esta entrada de blog, comparto mi trabajo organizando eventos para rOpenSci.
+En este blog post, comparto mi trabajo organizando eventos para rOpenSci.
 
-## Convocatorias comunitarias
+## Llamadas con la comunidad
 
-[Llamadas comunitarias](https://ropensci.org/commcalls/) son uno de los tipos de eventos tradicionales de rOpenSci.
-Organizamos regularmente llamadas comunitarias en línea de una hora de duración, gratuitas y abiertas a todos, para debatir y aprender sobre intereses compartidos.
-Cada evento cuenta con entre dos y cinco ponentes, un moderador y entre 20 y 40 minutos de tiempo para preguntas y respuestas.
-Utilizamos la toma de notas colaborativa, lo que permite a los participantes compartir ideas o recursos y hacer preguntas.
+[Las llamadas o juntadas con la comunidad](https://ropensci.org/commcalls/) son uno 
+de los tipos de eventos tradicionales de rOpenSci.
+Las organizamos regularmente en línea y tienen una hora de duración, 
+gratuitas y abiertas, para debatir y aprender sobre intereses compartidos.
+Cada evento cuenta con entre dos y cinco ponentes, una persona que modera y entre 
+20 y 40 minutos de tiempo para preguntas y respuestas.
+Utilizamos la toma de notas colaborativa, lo que permite a quienes participantes 
+compartir ideas o recursos y hacer y contestar preguntas.
 Todas las convocatorias se graban y están disponibles en línea.
 Añadimos subtítulos y transcripciones y publicamos todo el material en nuestra página web.
 
-El objetivo principal de estas convocatorias es *reforzar las conexiones* entre los miembros de la
-comunidad rOpenSci. También *informan a* a la gente sobre temas técnicos y sociales,
-*acercar a diferentes* partes interesadas *perspectivas* a la luz, y *identificar las necesidades no satisfechas* sobre un tema.
+El objetivo principal de estas convocatorias es *reforzar las conexiones* entre los 
+integrantes de la comunidad rOpenSci. 
+También *informan a* a la gente sobre temas técnicos y sociales,
+*acercar a diferentes* partes interesadas *perspectivas* a la luz 
+y *identificar las necesidades no satisfechas* sobre un tema.
 
 {{< figure src="commcalls.png" alt="Volantes de todas las convocatorias de comunicaciones organizadas desde que Yani se unió a rOpenSci. Muestra el título, los ponentes, la fecha y el logotipo de rOpenSci." >}}
 
-En general, las convocatorias de rOpenSci atraen a una audiencia global de usuarios y desarrolladores de R,
-con representación de los ámbitos académico, gubernamental, no lucrativo e industrial.
-Desde su inicio, rOpenSci ha organizado 40 Convocatorias Comunitarias con 96 presentadores únicos
-y han asistido más de 900 personas de más de 50 países.
+En general, las convocatorias de rOpenSci atraen a una audiencia global 
+de usuarios y desarrolladores de R, con representación de los ámbitos académico, 
+gubernamental, organizaciones sin fines de lucro e industrial.
+Desde su inicio, rOpenSci ha organizado 40 de estas conversaciones con la comunidad
+con 96 disertantes diferentes y han asistido más de 900 personas de más de 50 países.
 
-Las Llamadas a la Comunidad son realmente atractivas.
+Las Llamadas de la Comunidad son realmente atractivas.
 La gente participa hablando y escribiendo.
-Los documentos colaborativos se convierten en fantásticos recursos con preguntas y respuestas
-del ponente y del resto de participantes.
+Los documentos colaborativos se convierten en fantásticos recursos con 
+preguntas y respuestas de quienes exponen y del resto de las personas que participan.
 
-### Cómo organizamos las convocatorias comunitarias
+### Cómo las organizamos
 
-Utilizamos un [repositorio público en GitHub para el crowdsourcing de ideas mediante temas](https://github.com/ropensci-org/community-calls)
-donde los miembros pueden comentar o votar utilizando emojis.
-Utilizamos etiquetas para anotar el estado de estas cuestiones y ayudar a participar en el debate.
-El proceso participativo me ayuda a priorizar los temas y a recibir aportaciones y sugerencias sobre posibles ponentes.
+Utilizamos un [repositorio público en GitHub para el recabar ideas mediante _issues_](https://github.com/ropensci-org/community-calls)
+donde las personas pueden comentar o votar utilizando emojis.
+Utilizamos etiquetas para anotar el estado de los _issues_ y ayudar a participar en el debate.
+El proceso participativo me ayuda a priorizar los temas y a recibir aportes y sugerencias sobre posibles disertantes.
 
 {{< figure src="commcalls-issues.png" alt="Ejemplos de temas de repo público y detalle de un tema con una propuesta" >}}
 
-También utilizo issues en un repo privado para organizar las convocatorias de la comunidad.
-He creado las incidencias con una plantilla que genera una completa,
-detallada con *71* ¡puntos!
+También utilizo _issues_ en un repositorio privado para organizarlas.
+Creo los _issues_ con una plantilla que genera una completa y detallada _checklist_ con *71* ¡puntos!
 Esta lista de control enumera todos los pasos necesarios para organizar la convocatoria comunitaria
 e incluye enlaces a todos los materiales necesarios, como la plantilla del documento compartido
 para la reunión, la diapositiva de presentación y ejemplos de publicaciones en las redes sociales.
@@ -63,23 +70,26 @@ para la reunión, la diapositiva de presentación y ejemplos de publicaciones en
 
 ### Fases de la organización
 
-Tras seleccionar un tema del repositorio público, me pongo en contacto con 1 ó 3 ponentes y 1 moderador
-y colaboro con ellos para ultimar los detalles del tema, el título, el público objetivo y otros detalles.
+Tras seleccionar un tema del repositorio público, me pongo en contacto con 1 ó 3 personas para que
+sean disertantes y 1 una persona para que modere y colaboramospara ultimar los detalles del tema, 
+el título, el público objetivo y otros detalles.
 
 Lo siguiente es la fase de preparación. Seleccionamos una fecha y una hora que convengan tanto a los ponentes
-y al público objetivo, evitando franjas horarias que entren en conflicto con las comunidades vecinas.
+y al público objetivo, evitando franjas horarias que entren en conflicto con las comunidades amigas.
 La comunicación comienza anunciando un "reserva la fecha" en las redes sociales y anunciando
-el evento a través de varias plataformas, como la Comunidad Posit, la lista de discusión de Carpinterías,
+el evento a través de varias plataformas, como la Comunidad Posit, la lista de discusión de The Carpentries,
 y varios Slacks, como R-Ladies y NumFOCUS.
-Es el momento de organizar una reunión en Zoom utilizando una plantilla de convocatoria de la comunidad y
-crear una página de aterrizaje en la que se detallen las biografías de los ponentes, el acceso al evento y los recursos relacionados en nuestro sitio web.
+Es el momento de organizar una reunión en Zoom utilizando una plantilla para este tipo de evento y
+crear una página del evento en la que se detallen las biografías de quienes daran las charlas, 
+el acceso al evento y los recursos relacionados en nuestro sitio web.
 
-Una semana antes del evento, creamos un documento de Google para que los asistentes se lo lleven en colaboración
-y editar el texto de introducción y la diapositiva para incluir la información del ponente,
-el orden del día y los enlaces a estos documentos. Además, preparo las publicaciones en las redes sociales para ese día
-del acto y un post recordatorio una hora antes.
+Una semana antes del evento, creamos un documento de Google para que quienes asisten lo usen 
+para tomar notas compartidas y preguntar y contestar de forma colaborativa.  Tambien edito el texto 
+de introducción y la diapositiva de introducción para incluir la información de los disertantes,
+el orden del día y los enlaces a estos documentos. Además, preparo las publicaciones en las 
+redes sociales para el día del evento y un post recordatorio una hora antes.
 
-Dirijo la llamada de la comunidad el día del evento con el apoyo de Steffi LaZerte: ¡esta es la parte más divertida del proceso!
+Facilito el evento con el apoyo de Steffi LaZerte: ¡esta es la parte más divertida del proceso!
 
 Después de la convocatoria, documenté la asistencia y otros detalles de la convocatoria.
 También subí y edité el vídeo, los subtítulos y la transcripción para ponerlos a disposición del público en
