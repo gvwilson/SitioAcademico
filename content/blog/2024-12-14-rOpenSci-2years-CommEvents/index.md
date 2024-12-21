@@ -91,47 +91,47 @@ redes sociales para el día del evento y un post recordatorio una hora antes.
 
 Facilito el evento con el apoyo de Steffi LaZerte: ¡esta es la parte más divertida del proceso!
 
-Después de la convocatoria, documenté la asistencia y otros detalles de la convocatoria.
-También subí y edité el vídeo, los subtítulos y la transcripción para ponerlos a disposición del público en
+Después de la convocatoria, documento la asistencia y otros detalles.
+También subo y edito el vídeo, los subtítulos y la transcripción para ponerlos a disposición del público en
 [Vimeo](https://vimeo.com/ropensci) y en nuestro [página web](https://ropensci.org/commcalls/).
 También anuncié en las redes sociales que los recursos estaban disponibles.
 
-He organizado diez convocatorias comunitarias, incluida la *primera en español* y la *primera en portugués* ¡!
+He organizado diez convocatorias comunitarias, incluida ¡ la *primera en español* y la *primera en portugués* !
 
 **Organizar una convocatoria comunitaria con éxito requiere mucho tiempo y trabajo, pero es una de las actividades de rOpenSci que más disfrutan nuestros miembros.**
 
-## Sesión de coworking
+## Sesión de trabajo en equipo
 
-Una sesión de coworking fue el evento que utilicé para presentarme a la comunidad,
+Una sesión de trabajo en equipo o co-trabajo fue el evento que utilicé para presentarme a la comunidad,
 y fue una de las primeras actividades en las que tuve la oportunidad de proponer pequeños ajustes.
 
-Nuestras sesiones de coworking se celebran generalmente el primer martes de cada mes,
+Nuestras sesiones de _coworking_ se celebran generalmente el *primer martes* de cada mes,
 rotando por diferentes zonas horarias (América del Pacífico a las 9h, Australia Occidental a las 9h,
-y Central Europea a las 14h). También son gratuitas y abiertas a todos.
+y Central Europea a las 14h). También son gratuitas y abiertas.
 Nos reunimos en Zoom durante dos horas con presentaciones, seguidas de dos sesiones de coworking de 40 minutos
 con una mini pausa y búsqueda del tesoro en medio.
-La gente puede trabajar en una "sala ruidosa" donde el anfitrión compartirá y responderá preguntas
-sobre el tema de la reunión. La otra opción es trabajar en una sala silenciosa,
-donde la gente está muda y trabajando en sus actividades.
-La gente se une a nosotros en todo el mundo, y generalmente tenemos entre 7 y 14 personas por sesión.
+La gente puede trabajar en una "sala ruidosa" donde la persona que es anfitrión compartirá y responderá preguntas
+sobre el tema de la reunión. La otra opción es trabajar en una "sala silenciosa",
+donde la gente está en silencio, posiblemente con su camara apagada tambien y trabajando en sus actividades.
+La gente se une desde todo el mundo, y generalmente tenemos entre 7 y 14 personas por sesión.
 
 {{< figure src="co-working.png" alt="Página web del coworking en la web de rOpenSci" >}}
 
 Steffi LaZerte organiza y dirige estos eventos.
-Mi principal contribución a este evento fueron sugerencias sobre recursos y formato, por ejemplo:
+Mi principal contribución a este tipo de evento fueron sugerencias sobre recursos y formato, por ejemplo:
 
-- Convertir las reuniones en eventos temáticos elegidos por los anfitriones de la comunidad. De este modo, la gente puede venir a charlar sobre el tema. Por ejemplo, mi primer coworking fue Enseñar con R.
+- Convertir las reuniones en eventos temáticos elegidos por los anfitriones de la comunidad. De este modo, la gente puede venir a charlar sobre el tema. Por ejemplo, mi primer coworking fue "Enseñar con R".
 
-- Tener un documento compartido preformateado con rompehielos donde la gente pueda compartir recursos, hacer preguntas, proponer temas futuros o presentarse voluntaria como anfitriona.
+- Tener un documento compartido preformateado con rompe hielos donde la gente pueda compartir recursos, hacer preguntas, proponer temas futuros o proponerse para ser anfitriona.
 
-- Haz una pausa explícita en la que la gente pueda ir a hacer otra cosa sin preocuparse de perderse la conversación.
+- Hacer una pausa explícita en la que la gente pueda ir a hacer otra cosa sin preocuparse de perderse la conversación.
 
-- Crear un espacio para sesiones de coworking en nuestra página web.
+- Crear un espacio para estas sesiones en nuestra página web.
 
-Apoyo a Steffi sugiriendo anfitriones para diferentes zonas horarias,
-siendo el facilitador cuando Steffi es la anfitriona, y comunicando el evento.
+Ayudo a Steffi sugiriendo personas que puedan ser anfitriones para diferentes zonas horarias,
+soy la facilitadora cuando Steffi es la anfitriona, y tambien ayudo comunicando el evento en diferentes plataformas.
 
-También asisto al coworking para avanzar en mi trabajo de rOpenSci. :-)
+Asisto a las sesiones para avanzar en mi trabajo de rOpenSci. :-)
 
 ## Seminarios web
 
