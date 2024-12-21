@@ -13,11 +13,9 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="">}}
-
-
 *Program management and development* are another set of *core activities* of a Community Manager. 
 Programming, in this context, is the *combination of activities in a community that supports members in realizing the community's purpose together*. 
+
 In this blog post, I share my work organizing events for rOpenSci.
 
 ## Community Calls
@@ -32,6 +30,8 @@ We add close captions and transcription and publish all the materials on our web
 The main goal of these calls is to *strengthen connections* between members of the 
 rOpenSci community. They also *inform* people about technical and social topics, 
 *bring different* stakeholders' *perspectives* to light, and *identify unmet needs* on a topic. 
+
+{{< figure src="commcalls.png" alt="Flyers of all the comm calls organized since Yani joins rOpenSci. It shows the title, the speakers, the date and the rOpenSci logo.">}}
 
 Generally, rOpenSci's calls attract a global audience of R users and developers, 
 with representation from academia, government, non-profit, and industry. 
@@ -50,12 +50,17 @@ where members can comment or vote using emojis.
 We use labels to annotate the status of these issues to help engage in the discussion. 
 The participatory process helps me prioritize topics and receive input and suggestions about potential speakers.
 
+{{< figure src="commcalls-issues.png" alt="Public repo issues examples and detail of one issue with a proposal">}}
+
 I also use issues in a private repo to organize the community calls. 
 I created the issues with a template that generates a complete, 
 detailed checklist with *71* items! 
 This checklist lists all the necessary steps to organize the community call 
 and includes links to all the required materials, such as the template for the shared document 
 for the meeting, the presentation slide, and social media posts examples.
+
+{{< figure src="checklist.png" alt="First point of the 71 steps for organizing a comm call in a github issue">}}
+
 
 ### Phases of the organization 
 
@@ -82,10 +87,9 @@ I also uploaded and edited the video, subtitles, and transcript to make them pub
 [Vimeo](https://vimeo.com/ropensci) and our [webpage](https://ropensci.org/commcalls/). 
 I also announced on social media that the resources were available.
 
-I have organized ten community calls, including the *first in Spanish* and the *first in Portuguese*. 
+I have organized ten community calls, including the *first in Spanish* and the *first in Portuguese*!
 
-Hosting a successful community call takes a lot of time and work, 
-but it is one of the rOpenSci activities our members enjoy the most.
+**Hosting a successful community call takes a lot of time and work, but it is one of the rOpenSci activities our members enjoy the most.**
 
 ## Coworking Session
 
@@ -101,6 +105,9 @@ People can work in a "noisy room" where the host will be sharing and answering q
 about the theme of the meeting. The other option is to work in a quiet room, 
 where people are mute and working on their activities. 
 People join us worldwide, and we generally have around 7 to 14 people per session.
+
+{{< figure src="co-working.png" alt="Coworking webpage in the rOpenSci website">}}
+
 
 Steffi LaZerte is organizing and running these events. 
 My main contribution to this event was suggestions on resources and format, for example:
@@ -127,8 +134,10 @@ One of the nicest characteristics is that the primary language of the event is t
 We already have events in Spanish, Portuguese, and Turkish. We also organize these events with other communities 
 or institutions, like [Open Source Angola](https://angolaosc.org) and the [Boğaziçi University](https://bogazici.edu.tr/en-US/Index) (Turkey).
 
+{{< figure src="webinarios.png" alt="Collage with zoom meetings and flyers of the rOpenSci webinars">}}
+
 The topics are varied. For example, Carolina Pradier hosted a webinar to [present news on 
-the eph R package](https://vimeo.com/manage/899372049/general) after her work on the rOpenSci Champions Program, 
+the eph R package](https://vimeo.com/manage/899372049/general) after her work on the [rOpenSci Champions Program](https://ropensci.org/champions/), 
 and three users of the package shared how they use it. 
 Then Pedro Faria from Brazil and Antonio Pedro from Angola hosted an event to [discuss how to contribute to the rOpenSci Dev Guide translation to Portuguese](https://vimeo.com/manage/899603912/general). 
 Cagri, with Liz Hare, ran an event about [using and learning R with screen readers](https://vimeo.com/manage/1008631708/general). 
@@ -140,57 +149,80 @@ We also share the recording and materials on our Vimeo channel and [Event webpag
 ## Conferences
 
 I have been organizing conferences for many years. Since joining rOpenSci, 
-I have been part of the scientific committee for the Congress of AgroInformatics 2022 and 2023 
-and Nerderala 2023 and 2024. I was also on the organizing team for seven conferences.
+I have been part of the *scientific committee* for the [Congress of AgroInformatics 2022](https://51jaiio.sadio.org.ar/Simposios/CAI.html),
+[Nerderala 2023 and 2024 (Argentina y Mexico)](https://nerdear.la/). 
+I was also on the *organizing team* for seven conferences.
 
-* useR! 2022 (online):  I was in charge of organizing all the tutorials, which had their call, 
-review, selection, and agenda. I also helped with the Spanish communication of the event, 
+* [useR! 2022 (online)](https://user2022.r-project.org):  I was in charge of organizing all the tutorials, 
+which had their call, review, selection, and agenda. I also helped with the Spanish communication of the event, 
 the composition of the scientific committee, selecting keynotes, contacting sponsors, 
-and applying for conference grants. I was in charge of creating the YouTube channel for the conference and uploading all the videos of that edition. I also moderated sessions and helped gather the statistics for that edition to keep the useR! Dashboard up to date. We have 2000ish attendees. 
+and applying for conference grants. I was in charge of creating the YouTube channel 
+for the conference and uploading all the videos of that edition. 
+I also moderated sessions and helped gather the statistics for that edition to keep the 
+[useR! Infoboard](https://rconf.gitlab.io/userinfoboard/) up to date. We have 2000ish attendees. 
 
-* LatinR 2022 y 2024 (online) and LatinR 2023 (in person): I was chair of all these editions. 
-We have three excellent editions, with talks and tutorials in Spanish, English, and Portuguese. 
-All the work is 100% volunteer. It is truly a conference by and for the Latin American community. 
+* LatinR on line version for [2022](https://2022.latinr.org) and [2024](https://latinr.org) and the in person [LatinR 2023](https://2023.latinr.org): 
+I was *chair* of all these excellents three editions. 
+As always we have talks and tutorials in Spanish, English, and Portuguese. 
+All the work is **100% volunteer**. It is truly a conference by and for the Latin American community. 
 The online version has around 1000 registered, and the in-person version has around 300 participants. 
+During 2024 we also organized our first Traslathon (Hackathon + Translation) to translate rOpenSci Dev Guide to Portuguese.
 
-* CSV,Conf,v7 and CSC,Conf,V8 (in person): For the 2024 edition, I reviewed proposals and helped organize 
-The Carpentries Workshop. I also included R-Ladies Puebla on the organization committee so that they could 
+
+* [CSV,Conf,v7](https://csvconf.com/2023/) and [CSC,Conf,V8](https://csvconf.com/2024/) (in person): For the 2024 edition, 
+I reviewed proposals and helped organize The Carpentries Workshop. I also included R-Ladies Puebla on the organization committee so that they could 
 organize an R-Ladies Meetup during the conference. For the 2023 edition, I was more involved because 
 it was in Buenos Aires. I also reviewed proposals, supported visa applications, and helped organize 
 Carpentry workshops during the conference. I also helped with other tasks like forming the conference's CoC Team, 
 looking for sponsors, creating the intro slides, attending the registration desk, and chairing and moderating sessions.
 
-* Appsilon Shiny Conference 2022: I was on the organizer committee, advising about conference platforms, 
+* *Appsilon Shiny Conference 2022*: I was on the organizer committee, advising about conference platforms, 
 accessibility, multilingual content, and potential speakers.
  
 ## Champions Program training and meetings
 
-The champions program has a first phase of training related to best practices in R package development, 
-community management, and mentoring. 
+The [rOpenSci Champions Program](https://ropensci.org/champions/) has a [first phase of training](https://ropensci.org/blog/2023/08/04/champions-program-training/) 
+related to [best practices in R package development, community management, and mentoring](https://ropensci.org/training/). 
 
-The main challenge is organizing more than 20 people in time zones more than 16 hours apart. 
+The _main challenge_ is organizing more than 20 people in time zones **more than 16 hours apart**. 
 The program also has cohort and kick-off meetings. During the second year, 
 we add informal and optional weekly gatherings that last two hours. 
 In these two years, I organized 13 workshops, which lasted 1 to 3 hours, 15 meetings, 
 and 24 sessions, which lasted 1 to 2 hours. 
 
-## Three Key aspects of organizing events 
+Some of the tools I use to organize these events are:
+
+* [Google Calendar](https://calendar.google.com/) for a complete agenda of the program, scheduling and sending reminders.
+* [Calendly](https://calendly.com/): you can link your calendar with Calendly and provide a link to other people 
+to choose a day and time in your agenda. It is free for only one type of event. It also provides a **pool** option which is screen reader accesible. 
+Have a 40 spot limit.
+* [Time and date](http://timeanddate.com/): for checking time zones and calculate dates and times.
+* [World Time Buddy](https://www.worldtimebuddy.com/): for checking time zones and calculate dates and times.
+
+
+## Lesson Learned
 
 Organizing events, whether online or in-person, requires careful planning and attention to detail. 
 
-Three key aspects I consider essential for successful events are planning, promotion, 
-and engagement. Effective planning involves selecting the right date, time, speakers, and format 
+### Key aspects of organizing events 
+
+Four key aspects I consider essential for successful events are **planning**, **promotion**, 
+**engagement** and **feedback**. 
+
+Effective *planning* involves selecting the right date, time, speakers, and format 
 to match our community members' needs and expectations. 
-Promotion is crucial to reaching our audience with time, requiring targeted outreach through 
-the language of communication and platforms like social media, forums, and newsletters. 
-Lastly, engagement during and after the event, through shared note-taking, 
+
+*Promotion* is crucial to reaching our audience with time, requiring targeted outreach through 
+the human language of communication and platforms like social media, forums, and newsletters. 
+
+*Engagement* during and after the event, through shared note-taking, 
 interactive Q&A sessions, a code of conduct, and follow-up content, ensures that participants feel safe, 
 remain connected, and that the event has a lasting impact.
 
-Finally, asking for feedback at every event and using that feedback is also an essential 
-process for learning and improving. 
+Finally, asking for **feedback** at every event and *using* that feedback is an essential 
+step for learning and improving. 
 
-## Acknowledgments
+### Acknowledgments
 
 I want to thank all the speakers, moderators, hosts, instructors, and participants 
 for their willingness to share their knowledge with others. 
