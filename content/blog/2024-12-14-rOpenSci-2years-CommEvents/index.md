@@ -14,8 +14,9 @@ tags:
 ---
 
 La *gestión y desarrollo de programas* son otro conjunto de *actividades principales* 
-de un Community Manager.
-La programación, en este contexto, es la *combinación de actividades en una comunidad que ayuda a los miembros a realizar juntos el propósito de la comunidad*.
+de una Community Manager.
+La programación, en este contexto, 
+es la *combinación de actividades en una comunidad que ayuda a los miembros a realizar juntos el propósito de la comunidad*.
 
 En este blog post, comparto mi trabajo organizando eventos para rOpenSci.
 
@@ -38,7 +39,7 @@ También *informan a* a la gente sobre temas técnicos y sociales,
 *acercar a diferentes* partes interesadas *perspectivas* a la luz 
 y *identificar las necesidades no satisfechas* sobre un tema.
 
-{{< figure src="commcalls.png" alt="Volantes de todas las convocatorias de comunicaciones organizadas desde que Yani se unió a rOpenSci. Muestra el título, los ponentes, la fecha y el logotipo de rOpenSci." >}}
+{{< figure src="commcalls.png" alt="Volantes de todas las convocatorias de comunicaciones organizadas desde que Yani se unió a rOpenSci. Muestra el título, los ponentes, la fecha y el logotipo de rOpenSci." caption="Collage con todos los flyers de las community calls" >}}
 
 En general, las convocatorias de rOpenSci atraen a una audiencia global 
 de usuarios y desarrolladores de R, con representación de los ámbitos académico, 
@@ -58,7 +59,7 @@ donde las personas pueden comentar o votar utilizando emojis.
 Utilizamos etiquetas para anotar el estado de los _issues_ y ayudar a participar en el debate.
 El proceso participativo me ayuda a priorizar los temas y a recibir aportes y sugerencias sobre posibles disertantes.
 
-{{< figure src="commcalls-issues.png" alt="Ejemplos de temas de repo público y detalle de un tema con una propuesta" >}}
+{{< figure src="commcalls-issues.png" alt="Ejemplos de temas de repo público y detalle de un tema con una propuesta" caption="Ejemplos de issues en el repo publico">}}
 
 También utilizo _issues_ en un repositorio privado para organizarlas.
 Creo los _issues_ con una plantilla que genera una completa y detallada _checklist_ con *71* ¡puntos!
@@ -66,13 +67,13 @@ Esta lista de control enumera todos los pasos necesarios para organizar la convo
 e incluye enlaces a todos los materiales necesarios, como la plantilla del documento compartido
 para la reunión, la diapositiva de presentación y ejemplos de publicaciones en las redes sociales.
 
-{{< figure src="checklist.png" alt="Primer punto de los 71 pasos para organizar una comm call en un issue de github" >}}
+{{< figure src="checklist.png" alt="Primeros puntos de los 71 pasos para organizar una comm call en un issue de github" caption="Ejemplo de mi checklist de 71 puntos para organizar una community call">}}
 
 ### Fases de la organización
 
 Tras seleccionar un tema del repositorio público, me pongo en contacto con 1 ó 3 personas para que
-sean disertantes y 1 una persona para que modere y colaboramospara ultimar los detalles del tema, 
-el título, el público objetivo y otros detalles.
+sean disertantes y una persona para que modere y colaboramos para seleccionar el tema, 
+el título, el público objetivo y ultimar otros detalles.
 
 Lo siguiente es la fase de preparación. Seleccionamos una fecha y una hora que convengan tanto a los ponentes
 y al público objetivo, evitando franjas horarias que entren en conflicto con las comunidades amigas.
@@ -96,7 +97,7 @@ También subo y edito el vídeo, los subtítulos y la transcripción para ponerl
 [Vimeo](https://vimeo.com/ropensci) y en nuestro [página web](https://ropensci.org/commcalls/).
 También anuncié en las redes sociales que los recursos estaban disponibles.
 
-He organizado diez convocatorias comunitarias, incluida ¡ la *primera en español* y la *primera en portugués* !
+He organizado diez convocatorias comunitarias, incluidas ¡ la *primera en español* y la *primera en portugués* !
 
 **Organizar una convocatoria comunitaria con éxito requiere mucho tiempo y trabajo, pero es una de las actividades de rOpenSci que más disfrutan nuestros miembros.**
 
@@ -115,7 +116,7 @@ sobre el tema de la reunión. La otra opción es trabajar en una "sala silencios
 donde la gente está en silencio, posiblemente con su camara apagada tambien y trabajando en sus actividades.
 La gente se une desde todo el mundo, y generalmente tenemos entre 7 y 14 personas por sesión.
 
-{{< figure src="co-working.png" alt="Página web del coworking en la web de rOpenSci" >}}
+{{< figure src="co-working.png" alt="Página web de coworking en el sitio web de rOpenSci que muestra algunas imágenes de reuniones en zoom y la explicación del coworking" caption="Página web del coworking en la web de rOpenSci" >}}
 
 Steffi LaZerte organiza y dirige estos eventos.
 Mi principal contribución a este tipo de evento fueron sugerencias sobre recursos y formato, por ejemplo:
@@ -143,7 +144,7 @@ Una de las características más agradables es que la lengua principal del event
 Ya tuvimos semiarios en español, portugués y turco. También organizamos estos eventos con otras comunidades
 o instituciones, como [Código Abierto Angola](https://angolaosc.org) y la [Universidad Boğaziçi](https://bogazici.edu.tr/en-US/Index) (Turquía).
 
-{{< figure src="webinarios.png" alt="Collage con reuniones de zoom y folletos de los seminarios web de rOpenSci" >}}
+{{< figure src="webinarios.png" alt="Collage con reuniones de zoom y folletos de los seminarios web de rOpenSci" caption="Collage con reuniones de zoom y folletos de los seminarios web de rOpenSci" caption="Flyer en castellano, portugues y turco, y fotos de las reuniones de zoom de los tres webinarios">}}
 
 Los temas son variados. Por ejemplo, Carolina Pradier organizó un seminario web para [presentar novedades sobre
 el paquete eph R](https://vimeo.com/manage/899372049/general) tras su trabajo en el [Programa de Campeones rOpenSci](https://ropensci.org/champions/),
@@ -151,52 +152,57 @@ y tres usuarios del paquete compartieron cómo lo utilizan.
 Luego, Pedro Faria, de Brasil, y Antonio Pedro, de Angola, organizaron un evento para [debatir cómo contribuir a la traducción al portugués de la Guía de Desarrollo de rOpenSci](https://vimeo.com/manage/899603912/general).
 Finalmente, Cagri, con Liz Hare, organizó un evento sobre [uso y aprendizaje de R con lectores de pantalla](https://vimeo.com/manage/1008631708/general).
 
-Las fases de organización son similares a las de la Convocatoria Comunitaria,
+Las fases de organización son similares a las de la Llamada de la comunidad,
 pero los miembros de rOpenSci que organizan el evento se encargan de algunas tareas.
-También compartimos la grabación y los materiales en nuestro canal de Vimeo y [página web del evento](https://ropensci.org/events/).
+También compartimos la grabación y los materiales en nuestro canal de Vimeo y en nuestra [página web de eventos](https://ropensci.org/events/).
 
 ## Conferencias
 
 Llevo muchos años organizando conferencias. Desde que me uní a rOpenSci,
-he formado parte del *comité científico* de la [Congreso de Agroinformática 2022](https://51jaiio.sadio.org.ar/Simposios/CAI.html),
-[Nerderala 2023 y 2024 (Argentina y México)](https://nerdear.la/).
-También estuve en la *equipo organizador* de siete conferencias.
+he formado parte del *comité científico* del [Congreso de Agroinformática 2022](https://51jaiio.sadio.org.ar/Simposios/CAI.html), 
+[Nerderala 2023 y 2024 (Argentina y México)](https://nerdear.la/) y fui jurado del concurso nacional ["Contar con Datos"](https://udesa.edu.ar/contarcondatos#five).
+También estuve en el *equipo organizador* de siete conferencias.
 
-{{< figure src="latinR2022-23-24.png" alt="Imágenes de personas participando en zoom o en persona durante LatinR 2022, 2023 y 2024. Flyer del traslatón y ponencia de Danielle Navarro" >}}
+{{< figure src="latinR2022-23-24.png" alt="Imágenes de personas participando en zoom o en persona durante LatinR 2022, 2023 y 2024. Flyer del traslatón y ponencia de Danielle Navarro" caption="Imagenes de las tres ediciones de LatinR 2022, 2023 y 2024 con personas y eventos de rOpenSci">}}
 
-- [useR! 2022 (en línea)](https://user2022.r-project.org) Me encargué de organizar todos los tutoriales,
+- [useR! 2022 (en línea)](https://user2022.r-project.org) Fui la chair del comite del programa.
+  Me encargué de organizar todos los tutoriales,
   que tuvieron su convocatoria, revisión, selección y agenda. También ayudé con la comunicación en español del evento,
-  la composición del comité científico, la selección de ponentes, el contacto con patrocinadores,
+  la composición del comité científico y el comite organizador, la selección de ponentes, el contacto con patrocinadores,
   y solicitando subvenciones para la conferencia. Me encargué de crear el canal de YouTube
   de la conferencia y de subir todos los vídeos de esa edición.
   También moderé sesiones y ayudé a recopilar las estadísticas de esa edición para mantener la
   [¡useR! Infoboard](https://rconf.gitlab.io/userinfoboard/) al día. Tenemos unos 2000 asistentes.
 
 - LatinR versión en línea para [2022](https://2022.latinr.org) y [2024](https://latinr.org) y el presencial [LatinR 2023](https://2023.latinr.org):
-  Fui *silla* de todas estas excelentes tres ediciones.
-  Como siempre tendremos charlas y tutorías en español, inglés y portugués.
+  Fui *presidenta* de todas estas excelentes tres ediciones.
+  Como siempre tuvimos charlas y talleres en español, inglés y portugués.
   Todo el trabajo es **100% voluntario**. Es realmente una conferencia por y para la comunidad latinoamericana.
   La versión online cuenta con unos 1000 inscritos, y la versión presencial con unos 300 participantes.
-  Durante 2024 también organizamos nuestro primer Traslatón (Hackatón + Traducción) para traducir rOpenSci Dev Guide al portugués.
+  Durante 2024 también organizamos nuestro primer Traslatón (Hackatón + Traducción) 
+  para traducir la Guia de desarrollo de rOpenSci al portugués.
 
-- [CSV,Conf,v7](https://csvconf.com/2023/) y [CSC,Conf,V8](https://csvconf.com/2024/) ambos en persona: Para la edición de 2024,
-  revisé las propuestas y ayudé a organizar el Taller de Carpintería. También incluí a R-Ladies Puebla en el comité de organización para que pudieran
-  organizar un R-Ladies Meetup durante la conferencia. Para la edición de 2023, me involucré más porque
-  fue en Buenos Aires. También revisé propuestas, apoyé las solicitudes de visado y ayudé a organizar
-  talleres de carpintería durante la conferencia. También ayudé en otras tareas, como la formación del Equipo de CdC de la conferencia,
-  buscar patrocinadores, crear las diapositivas de presentación, atender el mostrador de inscripción y presidir y moderar las sesiones.
+- [CSV,Conf,v7](https://csvconf.com/2023/) y [CSC,Conf,V8](https://csvconf.com/2024/) ambas en persona: 
+  Para la edición de 2024, revisé las propuestas y ayudé a organizar el Taller de The Carpentries. 
+  También incluí a R-Ladies Puebla en el comité de organización para que pudieran
+  organizar un Meetup de R-Ladies durante la conferencia. Para la edición de 2023, me involucré más porque
+  fue en Buenos Aires. También revisé propuestas y me encargué de las solicitudes de visa. Ayudé a organizar
+  talleres de The Carpentries durante la conferencia y con la formación del 
+  Equipo del Codigo de Conducta, busque patrocinadores, realicé las diapositivas de presentación, 
+  atendí el mostrador de inscripción y moderé algunas sesiones.
 
-- *Conferencia Appsilon Shiny 2022* Conferencia: Estuve en el comité organizador, asesorando sobre las plataformas de la conferencia,
-  accesibilidad, contenido multilingüe y posibles ponentes.
+- *Conferencia Appsilon Shiny 2022* Conferencia: Estuve en el comité organizador, 
+  asesorando sobre las plataformas de la conferencia, accesibilidad, contenido multilingüe y posibles ponentes.
 
 ## Formación y reuniones del Programa Campeones
 
-En [Programa de Campeones rOpenSci](https://ropensci.org/champions/) tiene un [primera fase de formación](https://ropensci.org/blog/2023/08/04/champions-program-training/)
+En [Programa de Campeones rOpenSci](https://ropensci.org/champions/) tiene una 
+[primera fase de formación](https://ropensci.org/blog/2023/08/04/champions-program-training/)
 relacionada con [buenas prácticas en el desarrollo de paquetes R, gestión de comunidades y tutoría](https://ropensci.org/training/).
 
-{{< figure src="training-champions-program.png" alt="Mapa conceptual con cuatro vías de formación. Coding Track con 4 talleres, code reviwe track con 1 taller, mentoring track con un workhsop y community management track con 2 talleres." >}}
+{{< figure src="training-champions-program.png" alt="Mapa conceptual con cuatro vías de formación.  Track de Programacion con 4 talleres, Revision de Codigo con 1 taller, Tutoria con un workhsop y Community Management track con 2 talleres." caption="Contenidos y talleres del entrenamiento del programa de campeon(a|e)s">}}
 
-El sitio *principal reto* es organizar a más de 20 personas en zonas horarias **separadas por más de 16 horas**.
+El *principal reto* es organizar a más de 20 personas en zonas horarias **separadas por más de 16 horas**.
 El programa también tiene reuniones de cohorte y de inicio. Durante el segundo año,
 añadimos reuniones semanales informales y opcionales que duran dos horas.
 En estos dos años, organicé 13 talleres, que duraban de 1 a 3 horas, 15 reuniones,
@@ -211,31 +217,30 @@ Algunas de las herramientas que utilizo para organizar estos eventos son:
 - [Fecha y hora](http://timeanddate.com/): para comprobar las zonas horarias y calcular fechas y horas.
 - [Compañero de la Hora Mundial](https://www.worldtimebuddy.com/): para consultar husos horarios y calcular fechas y horas.
 
-## Lección aprendida
+## Lecciones aprendidas
 
-Organizar actos, ya sean en línea o presenciales, requiere una planificación cuidadosa y atención a los detalles.
+Organizar eventos, ya sean en línea o presenciales, requiere una planificación cuidadosa y atención a los detalles.
 
 ### Aspectos clave de la organización de actos
 
 Cuatro aspectos clave que considero esenciales para el éxito de los actos son **planificar**, **promoción**,
-**compromiso** y **feedback**.
+**participación** y **feedback**.
 
-Eficaz *planificación* implica seleccionar la fecha, la hora, los ponentes y el formato adecuados
-que se ajuste a las necesidades y expectativas de los miembros de nuestra comunidad.
+Una eficaz *planificación* implica seleccionar la fecha, la hora, los ponentes y el formato adecuados
+que se ajuste a las necesidades y expectativas de las personas de nuestra comunidad.
 
-*Promoción* es crucial para llegar a nuestro público con tiempo, lo que requiere una difusión específica a través de
-el lenguaje humano de la comunicación y plataformas como las redes sociales, los foros y los boletines informativos.
+La *promoción* es crucial para llegar a nuestro público con tiempo, lo que requiere una difusión específica a través del
+lenguaje humano correspondiente y plataformas como las redes sociales, los foros y los boletines informativos.
 
-*Compromiso* durante y después del acto, mediante el uso de herramientas y materiales accesibles, la toma de notas compartida,
-sesiones interactivas de preguntas y respuestas, un código de conducta y contenidos de seguimiento, garantiza que los participantes se sientan seguros,
-permanezcan conectados y que el acto tenga un impacto duradero.
+La *participación* durante y después del evento, mediante el uso de herramientas y materiales accesibles, 
+la toma de notas compartida, sesiones interactivas de preguntas y respuestas, un código de conducta y 
+contenidos de seguimiento, garantiza que los participantes se sientan seguros, permanezcan conectados y 
+que el evento tenga un impacto duradero.
 
-Por último, pedir **comentarios** en cada acto y *utilizando* esa información es esencial
+Por último, pedir **feedback** en cada evento y *utilizando* esa información es esencial
 para aprender y mejorar.
 
 ### Agradecimientos
 
 Quiero dar las gracias a todos los ponentes, moderadores, anfitriones, instructores y participantes
 por su disposición a compartir sus conocimientos con los demás.
-
-

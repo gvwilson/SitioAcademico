@@ -31,7 +31,7 @@ The main goal of these calls is to *strengthen connections* between members of t
 rOpenSci community. They also *inform* people about technical and social topics, 
 *bring different* stakeholders' *perspectives* to light, and *identify unmet needs* on a topic. 
 
-{{< figure src="commcalls.png" alt="Flyers of all the comm calls organized since Yani joins rOpenSci. It shows the title, the speakers, the date and the rOpenSci logo.">}}
+{{< figure src="commcalls.png" alt="Flyers of all the comm calls organized since Yani joins rOpenSci. It shows the title, the speakers, the date and the rOpenSci logo." caption="Collage with all the flyers of the community calls">}}
 
 Generally, rOpenSci's calls attract a global audience of R users and developers, 
 with representation from academia, government, non-profit, and industry. 
@@ -50,7 +50,7 @@ where members can comment or vote using emojis.
 We use labels to annotate the status of these issues to help engage in the discussion. 
 The participatory process helps me prioritize topics and receive input and suggestions about potential speakers.
 
-{{< figure src="commcalls-issues.png" alt="Public repo issues examples and detail of one issue with a proposal">}}
+{{< figure src="commcalls-issues.png" alt="Public repo issues examples and detail of one issue with a proposal" caption="Examples of issues on the public repo">}}
 
 I also use issues in a private repo to organize the community calls. 
 I created the issues with a template that generates a complete, 
@@ -59,7 +59,7 @@ This checklist lists all the necessary steps to organize the community call
 and includes links to all the required materials, such as the template for the shared document 
 for the meeting, the presentation slide, and social media posts examples.
 
-{{< figure src="checklist.png" alt="First point of the 71 steps for organizing a comm call in a github issue">}}
+{{< figure src="checklist.png" alt="First point of the 71 steps for organizing a comm call in a github issue" caption="Example of my 71 points checklist to organize a community call">}}
 
 
 ### Phases of the organization 
@@ -106,7 +106,7 @@ about the theme of the meeting. The other option is to work in a quiet room,
 where people are mute and working on their activities. 
 People join us worldwide, and we generally have around 7 to 14 people per session.
 
-{{< figure src="co-working.png" alt="Coworking webpage in the rOpenSci website">}}
+{{< figure src="co-working.png" alt="Coworking webpage in the rOpenSci website showing some zoom meeting images and the explanation of coworking" caption="Coworking webpage in the rOpenSci website">}}
 
 
 Steffi LaZerte is organizing and running these events. 
@@ -134,7 +134,7 @@ One of the nicest characteristics is that the primary language of the event is t
 We already have events in Spanish, Portuguese, and Turkish. We also organize these events with other communities 
 or institutions, like [Open Source Angola](https://angolaosc.org) and the [Boğaziçi University](https://bogazici.edu.tr/en-US/Index) (Turkey).
 
-{{< figure src="webinarios.png" alt="Collage with zoom meetings and flyers of the rOpenSci webinars">}}
+{{< figure src="webinarios.png" alt="Collage with zoom meetings and flyers of the rOpenSci webinars" caption="Flyer in Spanish, Portuguese and Turkish and zoom meeting pictures of the tree webinars">}}
 
 The topics are varied. For example, Carolina Pradier hosted a webinar to [present news on 
 the eph R package](https://vimeo.com/manage/899372049/general) after her work on the [rOpenSci Champions Program](https://ropensci.org/champions/), 
@@ -150,15 +150,16 @@ We also share the recording and materials on our Vimeo channel and [Event webpag
 
 I have been organizing conferences for many years. Since joining rOpenSci, 
 I have been part of the *scientific committee* for the [Congress of AgroInformatics 2022](https://51jaiio.sadio.org.ar/Simposios/CAI.html),
-[Nerderala 2023 and 2024 (Argentina y Mexico)](https://nerdear.la/). 
+[Nerderala 2023 and 2024 (Argentina y Mexico)](https://nerdear.la/) and was a jury for the ["Telling with Data"](https://udesa.edu.ar/contarcondatos#five) contest. 
 I was also on the *organizing team* for seven conferences.
 
-{{< figure src="latinR2022-23-24.png" alt="Images of people participatin in zoom or in person during LatinR 2022, 2023 and 2024. Flyer of traslathon and Danielle Navarro keynote">}}
+{{< figure src="latinR2022-23-24.png" alt="Images of people participatin in zoom or in person during LatinR 2022, 2023 and 2024. Flyer of traslathon and Danielle Navarro keynote" caption="Images of the 3 last LatinR edition with rOpenSci's people and events">}}
 
 
-* [useR! 2022 (online)](https://user2022.r-project.org):  I was in charge of organizing all the tutorials, 
+* [useR! 2022 (online)](https://user2022.r-project.org):  I was the chair of the program committe.
+I was in charge of organizing all the tutorials, 
 which had their call, review, selection, and agenda. I also helped with the Spanish communication of the event, 
-the composition of the scientific committee, selecting keynotes, contacting sponsors, 
+the composition of the scientific committee and organizing team, selecting keynotes, contacting sponsors, 
 and applying for conference grants. I was in charge of creating the YouTube channel 
 for the conference and uploading all the videos of that edition. 
 I also moderated sessions and helped gather the statistics for that edition to keep the 
@@ -204,7 +205,7 @@ Have a 40 spot limit.
 * [World Time Buddy](https://www.worldtimebuddy.com/): for checking time zones and calculate dates and times.
 
 
-## Lesson Learned
+## Lessons Learned
 
 Organizing events, whether online or in-person, requires careful planning and attention to detail. 
 
