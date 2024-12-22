@@ -28,7 +28,7 @@ El objetivo es compartir de qué va el trabajo de una Community Manager con ejem
 5. Estrategia de comunicacion.
 6. Redes sociales. 
 7. Campañas de difusion.
-8. Eventos para la comunidad.
+8. [Eventos para la comunidad.](/blog/2024-12-14-ropensci-2years-commevents-en/)
 9. Escribir propuestas para financiamiento.
 10. Analisis de los datos de la comunidad.
 11. [Escribiendo, enseñando y dando charlas](/blog/2024-07-28-ropensci-2years-writing-speaking-teaching/).

@@ -28,7 +28,7 @@ The objective is to share what the work of a Community Manager is about with con
 5. Communication strategy.
 6. Social media. 
 7. Outreach campaigns.
-8. Community events.
+8. [Community events.](/blog/2024-12-14-ropensci-2years-commevents-en/)
 9. Write funding proposals.
 10. Analysis of community data.
 11. [Writing, teaching and giving talks](/blog/2024-07-28-ropensci-2years-writing-speaking-teaching-en/).
