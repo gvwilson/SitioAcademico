@@ -1,9 +1,9 @@
 ---
 title: "Usando Quarto Live para tutoriales interactivos"
 subtitle: "Regular talk"
-excerpt: ""
-date: 2022-10-14
-date_end: "2022-10-14"
+excerpt: "Comparto en esta charla lo que estuve aprendiendo al migrar tutoriales interactivos a Quarto Live"
+date: 2024-11-22
+date_end: "2024-11-22"
 author: "Yanina Bellini Saibene"
 location: "Online (Latinoamérica)"
 event: "LatinR 2024| Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
@@ -27,9 +27,6 @@ links:
   name: video 
   url: https://youtu.be/xRA4QD_U0Z4
 ---
-
-
-
 
 Palabras clave:  educación, ejercicios programación, R, Python
 
