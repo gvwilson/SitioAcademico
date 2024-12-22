@@ -1,7 +1,7 @@
 ---
 title: "Proyecto 4 - Eventos de la comunidad"
 author: Yanina Bellini Saibene
-summary: '22-12-2024'
+summary: 'Organizar una serie de eventos de distinto tipo forma parte mi trabajo como community manager. He aquí un resumen de los eventos que he organizado para rOpenSci'
 date: '2024-12-22'
 categories:
 - Community

@@ -1,7 +1,7 @@
 ---
 title: "Project 4 - Community Events"
 author: Yanina Bellini Saibene
-summary: "" 
+summary: "Organizing a set of differents type of events is part of the community manager job.  Here a recap of the type of event I have been organzing for rOpenSci" 
 date: '2024-12-14'
 categories:
   - Community
