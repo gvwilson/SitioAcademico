@@ -3,7 +3,7 @@ title: "10 Simple Rules for Leadership Without Formal Authority. A resource for 
 author: 
 - Yanina Bellini Saibene
 summary: "This set of simple rules is applicable to open organizations that rely on contributors who may have other jobs or responsibilities, may work across various organizations, and are not obligated to contribute to the open effort." 
-date: '2024-09-18'
+date: '2024-09-19'
 categories:
   - Community
   - 100DaysToOffload
