@@ -3,7 +3,7 @@ title: "A Look Back at 2024"
 author: 
 - Yanina Bellini Saibene
 summary: "A summary of my year, month by month.Another year, another opportunity to reflect. Grateful to still be here and for the people I shared the year with. " 
-date: '2024-12-31'
+date: '2024-12-27'
 categories:
   - Community
   - 100DaysToOffload
