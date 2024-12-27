@@ -7,11 +7,9 @@ date: '2024-12-27'
 categories:
   - Community
   - 100DaysToOffload
-  - Open Source Software
 tags:
   - Community
   - 100DaysToOffload
-  - Open Source Software
 ---
 
 {{< figure src="featured.jpg" alt="">}}
